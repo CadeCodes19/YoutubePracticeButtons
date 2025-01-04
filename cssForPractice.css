@@ -173,3 +173,13 @@ button {
   font-weight: bold;
   border-radius: 30px;
 }
+
+.link-btn:hover {
+  background-color: rgb(9, 94, 180);
+  cursor: pointer;
+}
+
+.link-btn-2:hover {
+  background-color: rgb(238, 237, 237);
+  cursor: pointer;
+}
